@@ -1,1 +1,1 @@
-https://snapshot.arbitrum.io/mainnet/nitro.tar
+https://snapshot.arbitrum.io/mainnet/nitro.tar	33557350400
